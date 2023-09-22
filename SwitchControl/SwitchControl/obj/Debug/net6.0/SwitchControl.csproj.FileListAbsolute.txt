@@ -1,0 +1,14 @@
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\bin\Debug\net6.0\SwitchControl.exe
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\bin\Debug\net6.0\SwitchControl.deps.json
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\bin\Debug\net6.0\SwitchControl.runtimeconfig.json
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\bin\Debug\net6.0\SwitchControl.dll
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\bin\Debug\net6.0\SwitchControl.pdb
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\SwitchControl.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\SwitchControl.AssemblyInfoInputs.cache
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\SwitchControl.AssemblyInfo.cs
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\SwitchControl.csproj.CoreCompileInputs.cache
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\SwitchControl.dll
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\refint\SwitchControl.dll
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\SwitchControl.pdb
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\SwitchControl.genruntimeconfig.cache
+Z:\Cursos\CursoBasicoC\SwitchControl\SwitchControl\obj\Debug\net6.0\ref\SwitchControl.dll

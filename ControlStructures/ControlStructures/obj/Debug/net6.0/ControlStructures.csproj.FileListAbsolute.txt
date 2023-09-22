@@ -1,0 +1,14 @@
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\bin\Debug\net6.0\ControlStructures.exe
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\bin\Debug\net6.0\ControlStructures.deps.json
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\bin\Debug\net6.0\ControlStructures.runtimeconfig.json
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\bin\Debug\net6.0\ControlStructures.dll
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\bin\Debug\net6.0\ControlStructures.pdb
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\ControlStructures.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\ControlStructures.AssemblyInfoInputs.cache
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\ControlStructures.AssemblyInfo.cs
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\ControlStructures.csproj.CoreCompileInputs.cache
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\ControlStructures.dll
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\refint\ControlStructures.dll
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\ControlStructures.pdb
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\ControlStructures.genruntimeconfig.cache
+Z:\Cursos\CursoBasicoC\ControlStructures\ControlStructures\obj\Debug\net6.0\ref\ControlStructures.dll
