@@ -1,0 +1,14 @@
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\bin\Debug\net6.0\Platzino.exe
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\bin\Debug\net6.0\Platzino.deps.json
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\bin\Debug\net6.0\Platzino.runtimeconfig.json
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\bin\Debug\net6.0\Platzino.dll
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\bin\Debug\net6.0\Platzino.pdb
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\Platzino.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\Platzino.AssemblyInfoInputs.cache
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\Platzino.AssemblyInfo.cs
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\Platzino.csproj.CoreCompileInputs.cache
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\Platzino.dll
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\refint\Platzino.dll
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\Platzino.pdb
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\Platzino.genruntimeconfig.cache
+Z:\Cursos\CursoBasicoC\Platzino\Platzino\obj\Debug\net6.0\ref\Platzino.dll
